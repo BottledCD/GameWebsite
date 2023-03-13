@@ -1,0 +1,17 @@
+body{
+    padding: 5px;
+    font-family: "consolas";
+    color: rgb(255, 185, 79);
+    background-color:hsl(0, 0%, 0%)
+}
+button{
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(255, 185, 79);
+    background-color:hsl(252, 28%, 14%)
+}
+h1{
+    padding: 5px;
+    border-radius: 5px;
+    background-color:hsl(252, 28%, 14%)
+}
